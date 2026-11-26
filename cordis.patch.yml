@@ -1,0 +1,4 @@
+- insert:
+    - id: adaptive-thinking-local
+      name: dsh-adaptive-thinking-local
+      config: {}
